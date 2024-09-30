@@ -34,7 +34,7 @@
 </script>
 
 <!-- Main container -->
-<div class="flex flex-col items-center justify-center min-h-screen bg-gray-900">
+<div class="hp-m flex flex-col items-center justify-center min-h-screen bg-gray-900">
 	<h1 class="text-2xl font-bold text-white mb-6">🔻 Workout Tracker</h1>
 	<!-- Workout form card -->
 	<div class="w-full max-w-md bg-gray-700 p-6 rounded-xl shadow-md text-center">
@@ -77,4 +77,7 @@
 </div>
 
 <style>
+	.hp-m{
+		padding: 1rem;
+	}
 </style>

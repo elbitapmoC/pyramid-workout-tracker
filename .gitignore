@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+.lesshst
+.mysql_history
+.node_repl_history
+.python_history
+.viminfo
+.profile
+
+# Ignore npm files
+*.npm
+
+# Ignore Nuxt.js files
+.nuxt/
+
+# Ignore log files
+*.log
+
+.svelte-kit
+
+node_modules/
